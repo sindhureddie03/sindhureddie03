@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sindhu! I'm currently pursuing a degree in Computer Science Engineering (CSE). I have a strong passion for technology and programming, with experience in Python Java and C++. I'm skilled in working with databases using SQL and have a solid foundation in web development, including HTML, CSS, and JavaScript. Additionally, I utilize version control systems like Git and GitHub to manage my projects effectively. I'm excited to collaborate and learn more in the tech community!
+Hi, I'm Sindhu! I'm currently pursuing a degree in Computer Science Engineering (CSE). I have a strong passion for technology and programming, with experience in Python Java and C++. I have a solid foundation in web development, including HTML, CSS, and JavaScript. Additionally, I utilize version control systems like Git and GitHub to manage my projects effectively. I'm excited to collaborate and learn more in the tech community!
 
 
 ## 🌐 Socials:
