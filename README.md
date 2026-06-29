@@ -12,12 +12,6 @@ Hi, I'm Sindhu! I recently graduated with a Bachelor's degree in Computer Scienc
 # 💻 Tech Stack
 Python | SQL | HTML | CSS | JavaScript
 
-# 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sindhureddie03&theme=tokyonight)
-
-# 🔥 GitHub Streak
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sindhureddie03&theme=tokyonight)
-
 # 🏆 Projects
 - Mobile Price Predictor
 - Personal Portfolio Website
