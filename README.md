@@ -6,7 +6,7 @@ Hi, I'm Sindhu! I recently graduated with a Bachelor's degree in Computer Scienc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//sindhureddy3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sindhureddy4082@gmail.com) 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sindhureddie03&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sindhureddie03&theme=tokyonight&hide_border=false)<br/>
