@@ -7,10 +7,28 @@ Hi, I'm Sindhu! I recently graduated with a Bachelor's degree in Computer Scienc
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sindhureddie03&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sindhureddie03&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sindhureddie03&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 💻 Tech Stack
+Python | SQL | HTML | CSS | JavaScript
+
+# 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sindhureddie03&theme=tokyonight)
+
+# 🔥 GitHub Streak
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sindhureddie03&theme=tokyonight)
+
+# 🏆 Projects
+- Mobile Price Predictor
+- Personal Portfolio Website
+
+# 🌱 Currently Learning
+- Core Python
+- Data Structures & Algorithms
+
+# 📫 Connect With Me
+LinkedIn
+Email
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
