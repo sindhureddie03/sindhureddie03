@@ -20,10 +20,6 @@ Python | SQL | HTML | CSS | JavaScript
 - Core Python
 - Data Structures & Algorithms
 
-# 📫 Connect With Me
-LinkedIn
-Email
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
